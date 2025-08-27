@@ -1,22 +1,3 @@
-<!-- GitHub-Compatible Banner -->
-<div align="center">
-  <h2>🎉 Claim Your <ins>1,000 Free Credits</ins></h2>
-  <p><strong>Start using our Crawling API today to extract data at scale — no setup, no maintenance.</strong></p>
-  <table>
-    <tr>
-      <td align="center">✅ <strong>JS Rendering Included</strong></td>
-      <td align="center">🛡️ <strong>CAPTCHA Handling</strong></td>
-      <td align="center">💳 <strong>No Credit Card Required</strong></td>
-    </tr>
-  </table>
-  <br>
-  <a href="https://crawlbase.com/signup?utm_source=github&utm_medium=referral&utm_campaign=github_tracking
-">
-    <img src="https://img.shields.io/badge/Start%20for%20Free-Get%201000%20Credits-4CAF50?style=for-the-badge&logo=rocket&logoColor=white" alt="Start for Free">
-  </a>
-</div>
-
-
 # What is Crawlbase MCP?
 
 Crawlbase MCP is a Model Context Protocol (MCP) server that bridges AI agents and the live web. Instead of relying on outdated training data, your LLMs can now fetch fresh, structured, real-time content — powered by Crawlbase’s proven crawling infrastructure trusted by 70,000+ developers worldwide.
