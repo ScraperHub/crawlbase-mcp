@@ -10,7 +10,8 @@
     </tr>
   </table>
   <br>
-  <a href="https://crawlbase.com/signup?signup=blog">
+  <a href="https://crawlbase.com/signup?utm_source=github&utm_medium=referral&utm_campaign=github_tracking
+">
     <img src="https://img.shields.io/badge/Start%20for%20Free-Get%201000%20Credits-4CAF50?style=for-the-badge&logo=rocket&logoColor=white" alt="Start for Free">
   </a>
 </div>
